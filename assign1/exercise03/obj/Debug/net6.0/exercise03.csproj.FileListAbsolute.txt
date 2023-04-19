@@ -1,0 +1,15 @@
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/bin/Debug/net6.0/exercise03
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/bin/Debug/net6.0/exercise03.deps.json
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/bin/Debug/net6.0/exercise03.runtimeconfig.json
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/bin/Debug/net6.0/exercise03.dll
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/bin/Debug/net6.0/exercise03.pdb
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.csproj.AssemblyReference.cache
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.AssemblyInfoInputs.cache
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.AssemblyInfo.cs
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.csproj.CoreCompileInputs.cache
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.dll
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/refint/exercise03.dll
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.pdb
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/exercise03.genruntimeconfig.cache
+/Users/elainechiang/Desktop/life/antra/assign1/exercise03/obj/Debug/net6.0/ref/exercise03.dll
